@@ -8,7 +8,7 @@ square.cpp triangle.cpp WrongFigure.cpp WrongFigure2.cpp
 equilateral_triangle.h figure.h isosceles_triangle.h parallelogram.h quadrangle.h quadrilateral.h rectangle.h rhombus.h 
 right_triangle.h square.h triangle.h WrongFigure.h WrongFigure2.h)
 
-add_executable(Different_figures main.cpp equilateral_triangle.cpp figure.cpp isosceles_triangle.cpp
+add_executable(6_3Exe main.cpp equilateral_triangle.cpp figure.cpp isosceles_triangle.cpp
 parallelogram.cpp quadrangle.cpp quadrilateral.cpp rectangle.cpp rhombus.cpp right_triangle.cpp 
 square.cpp triangle.cpp WrongFigure.cpp WrongFigure2.cpp
 equilateral_triangle.h figure.h isosceles_triangle.h parallelogram.h quadrangle.h quadrilateral.h rectangle.h rhombus.h 
