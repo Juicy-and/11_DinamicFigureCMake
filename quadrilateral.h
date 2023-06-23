@@ -2,13 +2,6 @@
 #include <iostream>
 #include "figure.h"
 
-#ifdef DINAMICFIGURELIBRARY_EXPORTS
-#define FIGURE_API __declspec(dllexport)
-#else
-#define FIGURE_API __declspec(dllimport)
-#endif
-
-
 class Quadrilateral : public Figure
 {
 private:
